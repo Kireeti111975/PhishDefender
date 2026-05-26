@@ -1,0 +1,6 @@
+{
+  "name": "Phishing Email Detector",
+  "description": "A machine learning-powered web application that identifies phishing emails using natural language content, extracts security threat indicators, and visualizes classifier performance metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
